@@ -1,0 +1,37 @@
+/*h1 {
+    color: #21a515;
+    font-size: auto;
+    text-align:center;
+    background-color: hwb(180 0% 80%   0.8);   
+    width: 80vw;   px % vw   
+    height: 50vh;
+    display: inline-block;   put it in the same line      الفرق مع الانلاين العادي انو الانلاين في شغلات حتى لو كتبتها ما بتطبق متل الطول والعرض    
+    display: block;   put erery one in line   
+    margin-bottom: 200px;   حتى يبعد عن يلي حواليه من الاربع اتجاهات   
+    margin:    top      (5px)    right      (10px)    bottom      (20px)    left      (30px);   نفس الشي ولكن لسهولة الكتابة   
+    margin: 0 auto;   فوق وتحت صفر ويمين ويسار بالنص   
+    padding: ; نفس المارجين ولكن هي حدود للعناصر او الكلام داخل البلوك بحد ذاتو   
+    border:  1px(width) solid(style/مخطط صلب هدول القصص) red(color);
+    border-top: 18px outset blue; لكل طرف فيني ساويه شكل
+    border-right: 3px solid black;
+    border-bottom: 7px inset green;
+    border-left: 10px dotted red;
+    outline: 30px solid green;
+
+    border-radius: 50% // 150px ; بساوي الحواف دائرية 
+    اذا كان الطول والعرض متساويين 50% بيعمل دائرة
+    border-radius: 10px(top left) 20px(top right) 30px(bottom right) 40px(bottom left);
+    box-shadow: 10px(يسار لليمين) 10px(فوق لتحت) 5px(blur) 10px(بيكبر الظل) green(color);ممكن تحط قيم سالبة لتعكس الاتجاه
+    في انواع للظلال دور عليهم
+    text-decoration: (solid) (underline) (overline) (line-through) (none);
+    text-transform: uppercase(كل الحروف كبيرة) lowercase(كل الحروف صغيرة) capitalize(كل الحروف الاولى كبيرة);
+    text-color: red;
+    letter-spacing: 10px;(المسافة بين الحروف وليس الكلام)
+    word-spacing: 10px;(المسافة بين الكلمات)
+    text-shadow: 10px 10px 5px green;(نفس البوكس شادو)
+    font-family: cursive, Aril, sans-serif;(نوع الخط ومنكتب اكتر من واحد مشان اذا الاول ما اشتغل يشتغل التاني)   
+    الايقونات***
+    و
+
+
+}*/
